@@ -1,16 +1,14 @@
 ## Hi there 👋
+I am Jordan and I am a Software engineer working for BorgWarner doing just about anything but mostly web development.
 
-<!--
-**JordanHSheldon/JordanHSheldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning about each piece of web development more in depth. Some examples are:
+  - Databases
+  - EventStores
+  - MessageQueues
+  - Web servers
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on:
+  - Web projects
+  - tools
+  - Anything that will help me learn about web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
