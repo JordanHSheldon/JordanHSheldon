@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am Jordan and I am a Software engineer working for BorgWarner doing just about anything but mostly web development.
+I am Jordan and I am a Software engineer.
+I always am trying to grow and fail faster.
 
 - 🌱 I’m currently learning about each piece of web development more in depth. Some examples are:
   - Databases
